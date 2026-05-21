@@ -113,6 +113,7 @@ async function editTask(id: number, newTitle: string) {
     src="/logo/logo.png"
     alt="TaskFlow logo"
     className="w-64 h-44 rounded-xl"
+    
   />
 
   <h1 className="text-6xl font-bold tracking-tight bg-gradient-to-r from-white to-white/60 bg-clip-text text-transparent">
